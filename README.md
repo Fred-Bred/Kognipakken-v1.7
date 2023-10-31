@@ -19,6 +19,6 @@ Det meste er på engelsk fordi næsten alle der på nuværende tidspunkt har bid
 -	I starten af december skal I aflevere jeres eksamensrapporter.
 -	Cirka samtidig får i jeres eksamensartikler
 -	Til selve eksamen må I have både jeres rapporter og artikler med – uden noter eller overstregninger!
-o	Man må godt lave noter/overstregninger i sin forberedelse, men så skal eksaminator godkende og underskrive/mærke rapport og/eller artikel inden selve forberedelsen. 
+    - Man må godt lave noter/overstregninger i sin forberedelse, men så skal eksaminator godkende og underskrive/mærke rapport og/eller artikel inden selve forberedelsen.
 -	Derudover må I have to talepapirer med: ét til den rapport man trækker og ét til den artikel man trækker.
 -	De må udfyldes indenfor den markerede boks. Der ligger en skabelon til boksen i kognipakken og eksempler på hvordan vi har brugt det, men der findes ikke ét rigtigt svar, så længe man er indenfor boksen.
